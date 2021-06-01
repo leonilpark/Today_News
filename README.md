@@ -16,8 +16,12 @@
 ![issue badge](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion&link=https://www.notion.so/SW-e3260075a48044239951dc38c5fb9b4c)
 ![issue badge](http://img.shields.io/badge/-Prototype-white?style=for-the-badge&logo=Android&link=https://ovenapp.io/view/l7bn2uY5MRJCicwnhb5IJ6F2TL22IKj2/)
 
-**팀원 : 박장훈, 전승욱, 한영호**
+![issue badge](http://img.shields.io/badge/-leonilpark-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/leonilpark)
+![issue badge](http://img.shields.io/badge/-SeungWook-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/SeungWook0502)
+![issue badge](http://img.shields.io/badge/-YeongHo-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/SeungWook0502)
 
+
+***Developed by TM.Coding Potato***
 ---
 ### License
 ```
