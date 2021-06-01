@@ -17,7 +17,7 @@
 [![issue badge](http://img.shields.io/badge/-Prototype-white?style=for-the-badge&logo=Android&link=https://ovenapp.io/view/l7bn2uY5MRJCicwnhb5IJ6F2TL22IKj2/)](https://ovenapp.io/view/l7bn2uY5MRJCicwnhb5IJ6F2TL22IKj2/)
 [![issue badge](http://img.shields.io/badge/-leonilpark-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/leonilpark)](https://www.github.com/leonilpark)
 [![issue badge](http://img.shields.io/badge/-SeungWook-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/SeungWook0502)](www.github.com/SeungWook0502)
-![issue badge](http://img.shields.io/badge/-YeongHo-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/SeungWook0502)
+[![issue badge](http://img.shields.io/badge/-YeongHo-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/HwaRyo)](www.github.com/HwaRyo)
 
 
 ***Developed by TM.Coding Potato***
