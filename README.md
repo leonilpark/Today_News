@@ -20,7 +20,7 @@
 [![issue badge](http://img.shields.io/badge/-YeongHo-black?style=for-the-badge&logo=GitHub&link=https://www.github.com/HwaRyo)](www.github.com/HwaRyo)
 
 
-***Developed by TM.Coding Potato***
+***Developed by TM.Coding Potatoes***
 ---
 ### License
 ```
